@@ -1,0 +1,59 @@
+# Visual Studio
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build Results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ppPackages/
+*.appx
+*.appxbundle
+*.build.csdef
+*.csproj.FileListAbsolute.txt
+*.csproj.FileList.txt
+*.dll
+*.exe
+*.log
+*.obj
+*.pdb
+*.pri
+*.publishsettings
+*.targets
+*.tmp
+*.vsix
+*.zip
+
+# User-specific files
+*.rsuser
+*.rsuser.osscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# NuGet Packages
+*.nupkg
+# The packages folder can be ignored because of Package Restore
+**/packages/*
+# except build/, which is used as an MSBuild target.
+!**/packages/build/
+# Uncomment if necessary however generally it will be regenerated when needed
+#!**/packages/repositories.config
+
+# Microsoft Azure Web App publish settings
+# This file contains sensitive information
+PublishProfiles/
+
+# Others
+*.config
+*.json
+*.xml
+*.csv
+*.md
+*.txt
